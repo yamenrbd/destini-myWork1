@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnBottom;
     TextView storyTextView;
     int mStoryIndex = 1;
+    //done
 
 
     @Override
